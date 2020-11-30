@@ -9,5 +9,11 @@ phpunit.xml
 /mysql_backup
 /postgres_backup
 /user-customizations.sh
+<<<<<<< HEAD
 vagranthalt.bat
 vagrantup.bat
+=======
+.phpunit.result.cache
+wsl-init.log
+.backup/*
+>>>>>>> 4aaaea04eb094234c33b2b8e0bbcd68c23d68e8c
